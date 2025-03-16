@@ -1,10 +1,9 @@
-#產生一個 Streamlit 範例程式
+# 產生一個 Streamlit 範例程式
 
-import requests
 import streamlit as st
 
 # 標題
-st.title("Hello, Streamlit!  - 你好, Streamlit!")
+st.title("Hello, Streamlit!")
 
 # 副標題
 st.subheader("這是一個簡單的範例程式")
